@@ -1,7 +1,7 @@
 """Configuration models for future Reddit API integration."""
 
-from dataclasses import dataclass
 import os
+from dataclasses import dataclass
 
 
 @dataclass(frozen=True)
